@@ -848,11 +848,19 @@
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		padding: 0 0.75em;
+<<<<<<< HEAD
+=======
+
+>>>>>>> cdbb76d7f591ad7ed4d6d3cc1917006fab2d1a35
 	}
 
 		#thumbnails article {
 			position: relative;
 			width: 50%;
+<<<<<<< HEAD
+=======
+			height: 50%;
+>>>>>>> cdbb76d7f591ad7ed4d6d3cc1917006fab2d1a35
 			background: #101010;
 			outline: 0;
 		}
